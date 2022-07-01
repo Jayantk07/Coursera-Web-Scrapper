@@ -25,8 +25,13 @@ The following information is scrapped from Coursera :
   ```2. Course Organization```
   
   ```3. Course URL```
+  
   ```4. Course Rating```
+  
   ```5. Course Difficulty```
+  
   ```6. Number of students enrolled```
+  
   ```7. Icon URL```
+  
   ```8. Image Name```
