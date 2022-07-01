@@ -12,6 +12,7 @@ Now run the python file and the scrapping will start.
 
 An example of Recruiter Courses from Coursera is scrapped and upload above.
 
+
 The following information is scrapped from Coursera :
 
   1. Course Title
